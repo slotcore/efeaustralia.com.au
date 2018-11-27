@@ -1,0 +1,3 @@
+http://edu4every1oz.com/wp-login.php
+Usuario: admin
+password: website
